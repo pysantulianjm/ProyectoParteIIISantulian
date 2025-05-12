@@ -40,31 +40,9 @@ Predecir si un jugador fue All-Star en una temporada de la NBA utilizando estad�
 ## Instrucciones
 
 1. Abrir el notebook `ProyectoParteIII+Santulian.ipynb` en Google Colab.
-2. Conectar con Google Drive para acceder a los datasets.
-3. Ejecutar todas las celdas secuencialmente.
-4. Instalar dependencias si es necesario:
-   ```bash
+2. Ejecutar todas las celdas secuencialmente.
+3. Instalar dependencias si es necesario:
    !pip install imbalanced-learn
-   ```
-
-## Estructura del proyecto
-
-```
-Proyecto-Final-Santulian/
-├── ProyectoParteIII+Santulian.ipynb
-├── README.md
-└── datasets/
-    ├── per game stats.csv
-    ├── allstar games stats.csv
-    ├── advanced stats.csv
-    ├── game highs stats.csv
-    ├── allgames stats.csv
-    ├── salaries.csv
-    └── totals stats.csv
-```
-
-## Descripción del repositorio (para GitHub)
-
 > 🎯 Análisis y predicción de participación en el NBA All-Star Game usando estadísticas por partido, técnicas de machine learning y validación estadística.
 
 Juan Martín Santulián  
